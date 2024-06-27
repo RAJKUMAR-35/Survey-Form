@@ -16,8 +16,6 @@ A responsive survey form designed to collect user feedback, built with HTML, CSS
 - HTML
 - CSS
 - Bootstrap 5
-- Font Awesome
-- Google Fonts (Poppins, Roboto)
 
 ## Conclusion
 
